@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Don't be afraid to explore new dreams"
+title:      "Explore a New Dream"
 date:       2018-08-12 16:32:56 -0400
 permalink:  dont_be_afraid_to_change_your_dreams
 ---
