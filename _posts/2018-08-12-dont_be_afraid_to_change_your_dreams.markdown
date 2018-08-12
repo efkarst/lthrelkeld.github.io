@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Don't be afraid to change your dreams"
-date:       2018-08-12 20:32:56 +0000
+title:      "Don't be afraid to explore new dreams"
+date:       2018-08-12 16:32:56 -0400
 permalink:  dont_be_afraid_to_change_your_dreams
 ---
 
